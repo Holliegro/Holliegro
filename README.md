@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Holliegro
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested in learning more 
+- 🌱 I’m currently learning how to do this for the first time 
+- 💞️ I’m looking to collaborate on my own business 
 - 📫 How to reach me ...
 - Hg@mysterybox.co.in
 
