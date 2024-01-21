@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Holliegro
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Microsoft 365
-- 💞️ I’m looking to collaborate on my Webapp + Database
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 - Hg@mysterybox.co.in
 
